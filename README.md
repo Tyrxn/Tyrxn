@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/WFZvB7VIXBgiz3oDXE" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcwNTRhYmI5NzVkZDFkNzVhODJiZmMxZjNiYjU1YzE1OGY2NWJmOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
   </div>
 <!--
 **Tyrxn/Tyrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
