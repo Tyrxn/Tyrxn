@@ -10,7 +10,7 @@
 
 - :telescope: I’m studying as a Software Engineer 
 - :seedling: I'm currently experimenting with JavaScript 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tyran-wong-tung-9ba7b8180/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyran-wong-tung-9ba7b8180/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
