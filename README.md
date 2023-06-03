@@ -8,7 +8,7 @@
   
   I'm an Undergraduate Software Engineer from Brisbane, Australia.
 
-- :telescope: I’m studying as a Software Engineer 
+- :telescope: I’m currently studying a Bachelor's of Computer and Software Systems Engineering
 - :seedling: I'm currently experimenting with JavaScript 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyran-wong-tung-9ba7b8180/)
 
@@ -24,17 +24,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
-<!--
-**Tyrxn/Tyrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
