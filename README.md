@@ -10,7 +10,6 @@
 
 - :telescope: I’m a final year Bachelor's of Computer and Software Systems Engineering student
 - :seedling: I'm currently experimenting with Cloud
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyran-wong-tung/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
