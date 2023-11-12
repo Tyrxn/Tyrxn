@@ -9,7 +9,7 @@
   I'm an Undergraduate Software Engineer from Brisbane, Australia.
 
 - :telescope: I’m a final year Bachelor's of Computer and Software Systems Engineering student
-- :seedling: I'm currently experimenting with Cloud
+- :seedling: I'm currently experimenting with Java
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
