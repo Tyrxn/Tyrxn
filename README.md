@@ -8,9 +8,9 @@
   
   I'm an Undergraduate Software Engineer from Brisbane, Australia.
 
-- :telescope: I’m currently studying a Bachelor's of Computer and Software Systems Engineering
-- :seedling: I'm currently experimenting with JavaScript 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyran-wong-tung-9ba7b8180/)
+- :telescope: I’m a final year Bachelor's of Computer and Software Systems Engineering student
+- :seedling: I'm currently experimenting with Cloud
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyran-wong-tung/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
