@@ -6,9 +6,9 @@
   
   ### About Me :
   
-  I'm an Undergraduate Software Engineer from Brisbane, Australia.
+  I'm a Graduate Software Engineer from Brisbane, Australia.
 
-- :telescope: I’m a final year Bachelor's of Computer and Software Systems Engineering student
+- :telescope: I’m a recent graduate with a Bachelor's of Computer and Software Systems Engineering
 - :seedling: I'm currently experimenting with Java
 
 ### :hammer_and_wrench: Languages and Tools :
